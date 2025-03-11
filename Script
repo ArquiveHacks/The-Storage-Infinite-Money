@@ -1,5 +1,3 @@
--- made by @ArquiveHacks
-
 -- invokes the remote function to roll skins
 local function roll()
     local args = {
